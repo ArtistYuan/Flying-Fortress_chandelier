@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/55b2b43d-3981-4a60-8c6a-ab31487ffe2c)# “飞行堡垒 Flying Fortress” 吊灯chandelier
+# “飞行堡垒 Flying Fortress” 吊灯chandelier
 它拥有一点工业风格、可调节“侧翼”反光板（扭力铰链实现悬停）、仿磨砂玻璃的质感、8K镜面不锈钢渲染出的科技感、以及可通配1200mmLED灯管（双端进电）；<br>
 
-![项目徽标](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/oshwhub_%E5%B0%81%E9%9D%A2_%E7%94%BB%E6%9D%BF%201.jpg?raw=true)<br>
+![图片](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/oshwhub_%E5%B0%81%E9%9D%A2_%E7%94%BB%E6%9D%BF%201.jpg?raw=true)<br>
 
 
 # 项目简介
@@ -21,11 +21,11 @@
 个人用户免费；<br>
 
 
-![项目徽标](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/02_%E6%8E%92%E7%89%88_%E6%95%88%E6%9E%9C%E5%9B%BE_1.jpg?raw=true)
+![图片](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/02_%E6%8E%92%E7%89%88_%E6%95%88%E6%9E%9C%E5%9B%BE_1.jpg?raw=true)
 
-![项目徽标](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/03_%E6%8E%92%E7%89%88_%E6%95%88%E6%9E%9C%E5%9B%BE_2.jpg?raw=true)
+![图片](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/03_%E6%8E%92%E7%89%88_%E6%95%88%E6%9E%9C%E5%9B%BE_2.jpg?raw=true)
 
-![项目徽标](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/03_%E6%8E%92%E7%89%88_%E6%95%88%E6%9E%9C%E5%9B%BE_3.jpg?raw=true)
+![图片](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/03_%E6%8E%92%E7%89%88_%E6%95%88%E6%9E%9C%E5%9B%BE_3.jpg?raw=true)
 
-![项目徽标](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/03_%E6%8E%92%E7%89%88_%E6%95%88%E6%9E%9C%E5%9B%BE_4.jpg?raw=true)
+![图片](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/03_%E6%8E%92%E7%89%88_%E6%95%88%E6%9E%9C%E5%9B%BE_4.jpg?raw=true)
 
