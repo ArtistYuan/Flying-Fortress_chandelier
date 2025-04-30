@@ -18,3 +18,5 @@
 未经授权禁止商用，包括但不限于小批量生产等商业行为；不允许修改后和衍生的作品做为闭源的商业发布和销售；
 个人用户免费；
 
+
+![项目徽标](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/oshwhub_%E5%B0%81%E9%9D%A2_%E7%94%BB%E6%9D%BF%201.jpg?raw=true)
