@@ -27,5 +27,5 @@
 
 ![图片](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/04_%E6%8E%92%E7%89%88_%E6%95%88%E6%9E%9C%E5%9B%BE_3.jpg?raw=true)
 
-![图片](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/04_%E6%8E%92%E7%89%88_%E6%95%88%E6%9E%9C%E5%9B%BE_4.jpg?raw=true)
+![图片](https://github.com/ArtistYuan/Flying-Fortress_chandelier/blob/main/Typesetting/05_%E6%8E%92%E7%89%88_%E6%95%88%E6%9E%9C%E5%9B%BE_4.jpg?raw=true)
 
