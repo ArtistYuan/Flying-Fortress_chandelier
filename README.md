@@ -11,3 +11,10 @@
 [“飞行堡垒 Flying Fortress” 吊灯设计_笔记合集](https://www.xiaohongshu.com/collection/item/67b8b12b0259000000000001?xhsshare=CopyLink&appuid=5de8d09a00000000010054c4&apptime=1746009334&share_id=7f7465355e4440ceb7b41e5739b8a7ec&share_channel=copy_link)
 
 目前链接需要在移动端设备才能正常查看，可复制链接转到APP查看；
+
+
+# 开源协议
+本项目以GPL 3.0协议开源；
+未经授权禁止商用，包括但不限于小批量生产等商业行为；不允许修改后和衍生的作品做为闭源的商业发布和销售；
+个人用户免费；
+
