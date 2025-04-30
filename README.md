@@ -1,2 +1,2 @@
-# -Flying-Fortress-chandelier
+# “飞行堡垒 Flying Fortress” 吊灯chandelier
 它拥有一点工业风格、可调节“侧翼”反光板（扭力铰链实现悬停）、仿磨砂玻璃的质感、8K镜面不锈钢渲染出的科技感、以及可通配1200mmLED灯管（双端进电）；
